@@ -1,6 +1,0 @@
-# To stop nvidia_drm
-
-sudo systemctl stop systemd-logind
-sudo rmmod nvidia_drm
-sudo rmmod nvidia_modeset
-sudo rmmod nvidia
